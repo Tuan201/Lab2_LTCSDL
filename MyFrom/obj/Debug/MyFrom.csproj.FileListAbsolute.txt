@@ -1,0 +1,9 @@
+C:\Users\ADMIN\OneDrive\Máy tính\MyFrom\MyFrom\bin\Debug\MyFrom.exe.config
+C:\Users\ADMIN\OneDrive\Máy tính\MyFrom\MyFrom\bin\Debug\MyFrom.exe
+C:\Users\ADMIN\OneDrive\Máy tính\MyFrom\MyFrom\bin\Debug\MyFrom.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\MyFrom\MyFrom\obj\Debug\MyFrom.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Máy tính\MyFrom\MyFrom\obj\Debug\MyFrom.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Máy tính\MyFrom\MyFrom\obj\Debug\MyFrom.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\MyFrom\MyFrom\obj\Debug\MyFrom.exe
+C:\Users\ADMIN\OneDrive\Máy tính\MyFrom\MyFrom\obj\Debug\MyFrom.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\MyFrom\MyFrom\obj\Debug\MyFrom.Form1.resources
